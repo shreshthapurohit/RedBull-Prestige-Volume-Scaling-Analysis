@@ -22,9 +22,9 @@ Below is a visual preview of the deployed interactive executive dashboard:
 ---
 
 ## 📊 Core Analytical Data Insights
-* ** 01 | Micro-Channel Revenue Isolation:** Analytical data plots prove that targeting isolated touchpoints—such as automated corporate vending networks, private esports lounges, and premium luxury fitness chains—captures maximum volume transactions specifically from high-affluence demographics.
-* ** 02 | The Structural "Sugarfree" Pivot:** Cross-filtering reveals a massive volume concentration for **Red Bull Sugarfree** and regional **Editions** among high-income technology professionals, investment consultants, and wellness-focused consumers, bypassing mass-retail saturation.
-* ** 03 | Demographic Density Mapping:** Metrics validate a clear retention layer among urban corporate workforces who view functional energy as an essential workplace productivity driver rather than a casual sugary soft drink.
+*  01 | Micro-Channel Revenue Isolation:** Analytical data plots prove that targeting isolated touchpoints—such as automated corporate vending networks, private esports lounges, and premium luxury fitness chains—captures maximum volume transactions specifically from high-affluence demographics.
+*  02 | The Structural "Sugarfree" Pivot:** Cross-filtering reveals a massive volume concentration for **Red Bull Sugarfree** and regional **Editions** among high-income technology professionals, investment consultants, and wellness-focused consumers, bypassing mass-retail saturation.
+*  03 | Demographic Density Mapping:** Metrics validate a clear retention layer among urban corporate workforces who view functional energy as an essential workplace productivity driver rather than a casual sugary soft drink.
 
 ---
 
