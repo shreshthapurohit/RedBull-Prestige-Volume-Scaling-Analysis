@@ -12,8 +12,8 @@ This Business Intelligence project maps a defensive **"Premium Volume Scaling St
 ## 🖥️ Live Enterprise Tableau Dashboard
 Below is a visual preview of the deployed interactive executive dashboard:
 
-![Tableau Dashboard Preview](<img width="1435" height="628" alt="Screenshot 2026-07-08 194459" src="https://github.com/user-attachments/assets/cc41dabf-a86c-4181-8e89-68b2519c9ea7" />
-)
+![Tableau Dashboard Preview]
+(<img width="1435" height="628" alt="Screenshot 2026-07-08 194459" src="https://github.com/user-attachments/assets/cc41dabf-a86c-4181-8e89-68b2519c9ea7" />)
 (<img width="427" height="227" alt="image" src="https://github.com/user-attachments/assets/2f2e1aec-5066-4ec5-8211-67576568264a" />)
 
 
